@@ -1,6 +1,6 @@
 ## Phant Image for Raspberry Pi
 
-Quick playaround with getting the Sparkfun Phant service going on a Raspberry Pi. 
+Quick playaround with getting the Sparkfun Phant service (http://data.sparkfun.com) going on a Raspberry Pi. 
 This was built using the hypriot-rpi distro and uses the hypriot/rpi-node Docker image for nodejs 
 
 To build, run the following in the same directory as the Dockerfile: 

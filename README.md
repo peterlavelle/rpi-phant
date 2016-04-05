@@ -11,4 +11,4 @@ To start the container execute the command:
 
 `docker run -d -p 8080:8080 rpi-phant` 
 
-Then point your browser to: **http://<your.pi.ip>:8080</your.pi.ip>**
+Then point your browser to: **http://your.pi.ip:8080**
